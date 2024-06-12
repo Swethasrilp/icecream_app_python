@@ -26,7 +26,7 @@ Make sure you have the following installed on your machine:
     Change to the project directory:
 
     ```bash
-    cd icream_l7_
+    cd icream_l7_project
     ```
 
 3. **Create a Virtual Environment**
