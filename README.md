@@ -18,7 +18,7 @@ Make sure you have the following installed on your machine:
     Open your terminal and clone the repository using Git:
 
     ```bash
-    git clone https://github.com/Swethasrilp/icecream_app_python.git
+   https://github.com/Swethasrilp/icecream_app_python.git
     ```
 
 2. **Navigate to the Project Directory**
