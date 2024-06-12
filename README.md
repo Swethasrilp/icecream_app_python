@@ -86,3 +86,6 @@ The SQLite database is already configured in the application. Ensure the databas
 ## Contributing
 
 Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+## Screenshots
+![image](https://github.com/Swethasrilp/icecream_app_python/assets/161049601/6d13beca-00c2-48ea-b0ac-43af110cb589)
+
