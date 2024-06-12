@@ -17,9 +17,9 @@ Make sure you have the following installed on your machine:
 
     Open your terminal and clone the repository using Git:
 
-    
-    git clone https://github.com/yourusername/ice-cream-app.git
-    
+    ```bash
+    git clone https://github.com/Swethasrilp/icecream_app_python.git
+    ```
 
 2. **Navigate to the Project Directory**
 
@@ -75,23 +75,14 @@ Make sure you have the following installed on your machine:
 
 ## SQLite Database
 
-If your application requires an SQLite database file, make sure it is present in the project directory. If it's not included, you can create one using the following steps:
+The SQLite database is already configured in the application. Ensure the database file is present in the project directory. If the database file is not included in the repository, you can create one using an SQLite database browser or script.
 
-1. **Create the SQLite Database**
-
-    You can create the database and the necessary tables using a script or manually using an SQLite database browser.
-
-2. **Ensure Database Configuration**
-
-    Make sure the database configuration in your code (`main.py` or the relevant file) points to the correct path of your SQLite database.
-
-## Troubleshooting
+### Troubleshooting
 
 - Ensure your virtual environment is activated before running the application.
 - Make sure all dependencies are installed correctly from the `requirements.txt` file.
-- Check the database path and ensure the database file exists in the specified location.
+- Verify that the database file exists in the specified location.
 
 ## Contributing
 
 Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
