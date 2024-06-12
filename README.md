@@ -26,7 +26,7 @@ Make sure you have the following installed on your machine:
     Change to the project directory:
 
     ```bash
-    cd ice-cream-app
+    cd icream_l7_
     ```
 
 3. **Create a Virtual Environment**
